@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect
+1669726718683,605,bzm - Streaming Sampler - master,200,OK,Thread Group 1-1,text,true,,3039,230,1,1,604,0,441
+1669726719309,35690,bzm - Streaming Sampler - video segment,200,OK,Thread Group 1-1,bin,true,,7476625,215,1,1,154,0,0
+1669726755001,6663,bzm - Streaming Sampler - audio segment,200,OK,Thread Group 1-1,bin,true,,1673766,215,1,1,202,0,0

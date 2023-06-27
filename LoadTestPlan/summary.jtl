@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1669726718683,605,bzm - Streaming Sampler - master,200,OK,Thread Group 1-1,text,true,,3039,230,1,1,https://cdn-network.app.shopi-tv.com/staging/mpds/2022-10-19/a1PN/1666185250350LEXICALCordlessStickVacuumCleaner/out/master-playlist.mpd,604,0,441
+1669726719309,35690,bzm - Streaming Sampler - video segment,200,OK,Thread Group 1-1,bin,true,,7476625,215,1,1,https://cdn-network.app.shopi-tv.com/staging/mpds/2022-10-19/a1PN/1666185250350LEXICALCordlessStickVacuumCleaner/out/600k,154,0,0
+1669726755001,6663,bzm - Streaming Sampler - audio segment,200,OK,Thread Group 1-1,bin,true,,1673766,215,1,1,https://cdn-network.app.shopi-tv.com/staging/mpds/2022-10-19/a1PN/1666185250350LEXICALCordlessStickVacuumCleaner/out/128k,202,0,0

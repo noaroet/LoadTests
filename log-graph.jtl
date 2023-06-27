@@ -1,0 +1,63 @@
+1669803936232,1711,login,200,Thread Group 1-1,true,1227,275,1,1,1710,0,1314
+1669803937987,496,Get Feeds,200,Thread Group 1-1,true,32568,317,1,1,494,0,0
+1669803938539,314,Get Channels,200,Thread Group 1-1,true,4337,320,1,1,314,0,0
+1669803938856,307,Get Heros,200,Thread Group 1-1,true,32568,317,1,1,306,0,0
+1669803939170,231,Get Channels Page,200,Thread Group 1-1,true,3783,327,1,1,231,0,0
+1669803939404,273,Get Heros Page,200,Thread Group 1-1,true,31524,324,1,1,271,0,0
+1669803939691,292,Get Feeds Page,200,Thread Group 1-1,true,31524,324,1,1,291,0,0
+1669804436864,1208,login,200,Thread Group 1-1,true,1239,275,1,1,1208,0,922
+1669804438075,521,Get Feeds,200,Thread Group 1-1,true,32568,317,1,1,501,0,0
+1669804438614,346,Feed Video - master,200,Thread Group 1-1,true,3040,230,1,1,346,0,275
+1669804439096,6073,Feed Video - video segment,200,Thread Group 1-1,true,7476626,215,1,1,93,0,0
+1669804445170,1325,Feed Video - audio segment,200,Thread Group 1-1,true,1673767,215,1,1,163,0,0
+1669805049326,1145,login,200,Thread Group 1-1,true,1239,275,1,1,1145,0,865
+1669805050474,593,Get Feeds,200,Thread Group 1-1,true,32568,317,1,1,591,0,0
+1669805051082,370,Play Feed Video - master,200,Thread Group 1-1,true,3040,230,1,1,370,0,293
+1669805051487,5599,Play Feed Video - video segment,200,Thread Group 1-1,true,7476626,215,1,1,90,0,0
+1669805057088,1354,Play Feed Video - audio segment,200,Thread Group 1-1,true,1673767,215,1,1,93,0,0
+1669805058443,258,Get Channels,200,Thread Group 1-1,true,4337,320,1,1,258,0,0
+1669805058707,97,Play Channel Video - master,200,Thread Group 1-1,true,3040,230,1,1,97,0,0
+1669805058847,4731,Play Channel Video - video segment,200,Thread Group 1-1,true,7476626,215,1,1,93,0,0
+1669805063580,955,Play Channel Video - audio segment,200,Thread Group 1-1,true,1673767,215,1,1,79,0,0
+1669805064537,304,Get Heros,200,Thread Group 1-1,true,32568,317,1,1,299,0,0
+1669805064863,260,Get Channels Page,200,Thread Group 1-1,true,3783,327,1,1,260,0,0
+1669805065128,309,Get Heros Page,200,Thread Group 1-1,true,31524,324,1,1,294,0,0
+1669805065456,288,Get Feeds Page,200,Thread Group 1-1,true,31524,324,1,1,286,0,0
+1669805260364,13412,login,200,Thread Group 1-1,true,1239,275,1,1,13412,0,13029
+1669805273778,617,Get Feeds,200,Thread Group 1-1,true,32568,317,1,1,600,0,0
+1669805274404,877,Play Feed Video - master,200,Thread Group 1-1,true,3040,230,1,1,877,0,635
+1669805275312,8016,Play Feed Video - video segment,200,Thread Group 1-1,true,7476626,215,1,1,124,0,0
+1669805283329,2916,Play Feed Video - audio segment,200,Thread Group 1-1,true,1673767,215,1,1,611,0,0
+1669805286246,339,Get Channels,200,Thread Group 1-1,true,4337,320,1,1,339,0,0
+1669805286590,179,Play Channel Video - master,200,Thread Group 1-1,true,3040,230,1,1,179,0,0
+1669805286793,11928,Play Channel Video - video segment,200,Thread Group 1-1,true,7476626,215,1,1,144,0,0
+1669805298721,6202,Play Channel Video - audio segment,200,Thread Group 1-1,true,1673767,215,1,1,2003,0,0
+1669805304925,4171,Get Heros,200,Thread Group 1-1,true,32568,317,1,1,4165,0,0
+1669805309107,1737,Get Channels Page,200,Thread Group 1-1,true,3783,327,1,1,1737,0,0
+1669805310848,4479,Get Heros Page,200,Thread Group 1-1,true,31524,324,1,1,4478,0,0
+1669805315338,8278,Get Feeds Page,200,Thread Group 1-1,true,31524,324,1,1,8277,0,0
+1669807879007,1450,login,200,Thread Group 1-1,true,1239,275,1,1,1449,0,1148
+1669807880459,508,Get Feeds,200,Thread Group 1-1,true,32568,317,1,1,494,0,0
+1669807880980,502,Play Feed Video - master,200,Thread Group 1-1,true,3040,230,1,1,502,0,367
+1669807881511,29546,Play Feed Video - video segment,200,Thread Group 1-1,true,7476626,215,1,1,121,0,0
+1669807911058,3982,Play Feed Video - audio segment,200,Thread Group 1-1,true,1673767,215,1,1,199,0,0
+1669807965506,1377,login,200,Thread Group 1-1,true,1240,275,1,1,1377,0,1070
+1669807966885,718,Get Feeds,200,Thread Group 1-1,true,32568,317,1,1,716,0,0
+1669807967612,781,Get Channels,200,Thread Group 1-1,true,85231,316,1,1,480,0,0
+1669807968425,341,Play Channel Video - master,200,Thread Group 1-1,true,3040,230,1,1,341,0,249
+1669807968786,16023,Play Channel Video - video segment,200,Thread Group 1-1,true,7476626,215,1,1,253,0,0
+1669807984810,3633,Play Channel Video - audio segment,200,Thread Group 1-1,true,1673767,215,1,1,209,0,0
+1669807988443,438,Get Heros,200,Thread Group 1-1,true,49492,313,1,1,413,0,0
+1669807988896,414,Get Channels Page,200,Thread Group 1-1,true,3783,327,1,1,414,0,0
+1669807989313,410,Get Heros Page,200,Thread Group 1-1,true,31524,324,1,1,409,0,0
+1669807989734,399,Get Feeds Page,200,Thread Group 1-1,true,31524,324,1,1,397,0,0
+1669808362649,1074,login,200,Thread Group 1-1,true,1240,275,1,1,1074,0,787
+1669808363725,522,Get Feeds,200,Thread Group 1-1,true,32568,317,1,1,509,0,0
+1669808364257,636,Get Channels,200,Thread Group 1-1,true,85231,316,1,1,390,0,0
+1669808364924,1070,Play Channel Video - master,200,Thread Group 1-1,true,3015,232,1,1,1070,0,377
+1669808366013,7736,Play Channel Video - video segment,200,Thread Group 1-1,true,3961667,217,1,1,846,0,0
+1669808373750,2764,Play Channel Video - audio segment,200,Thread Group 1-1,true,875001,217,1,1,993,0,0
+1669808376515,603,Get Heros,200,Thread Group 1-1,true,49492,313,1,1,551,0,0
+1669808377135,373,Get Channels Page,200,Thread Group 1-1,true,3783,327,1,1,373,0,0
+1669808377511,451,Get Heros Page,200,Thread Group 1-1,true,31524,324,1,1,447,0,0
+1669808377971,377,Get Feeds Page,200,Thread Group 1-1,true,31524,324,1,1,359,0,0

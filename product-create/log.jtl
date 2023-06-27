@@ -1,0 +1,401 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1670591215610,2123,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,2122,0,990
+1670591217735,779,Create Product ,500,Internal Server Error,Thread Group 1-1,text,false,,770,2903,1,1,https://api.app.shopi-tv.com/api/products,779,0,0
+1670591218515,281,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,281,0,0
+1670591218798,463,Create Product ,200,OK,Thread Group 1-1,text,true,,1828,2903,1,1,https://api.app.shopi-tv.com/api/products,463,0,0
+1670591219264,357,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,357,0,0
+1670591219622,301,Create Product ,500,Internal Server Error,Thread Group 1-1,text,false,,770,2903,1,1,https://api.app.shopi-tv.com/api/products,301,0,0
+1670591219925,432,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,432,0,0
+1670591220359,369,Create Product ,200,OK,Thread Group 1-1,text,true,,1828,2903,1,1,https://api.app.shopi-tv.com/api/products,369,0,0
+1670591220730,313,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,313,0,0
+1670591221045,392,Create Product ,200,OK,Thread Group 1-1,text,true,,1828,2903,1,1,https://api.app.shopi-tv.com/api/products,392,0,0
+1670591221439,392,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,392,0,0
+1670591221831,319,Create Product ,200,OK,Thread Group 1-1,text,true,,1828,2903,2,2,https://api.app.shopi-tv.com/api/products,319,0,0
+1670591222151,400,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,400,0,0
+1670591221612,1336,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,1336,0,927
+1670591222553,395,Create Product ,200,OK,Thread Group 1-1,text,true,,1828,2903,2,2,https://api.app.shopi-tv.com/api/products,395,0,0
+1670591222951,293,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,293,0,0
+1670591222951,427,Create Product ,500,Internal Server Error,Thread Group 1-2,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,427,0,0
+1670591223245,355,Create Product ,200,OK,Thread Group 1-1,text,true,,1828,2903,2,2,https://api.app.shopi-tv.com/api/products,355,0,0
+1670591223380,308,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,308,0,0
+1670591223603,303,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,303,0,0
+1670591223689,353,Create Product ,500,Internal Server Error,Thread Group 1-2,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,353,0,0
+1670591223907,372,Create Product ,500,Internal Server Error,Thread Group 1-1,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,372,0,0
+1670591224043,303,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,303,0,0
+1670591224280,293,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,293,0,0
+1670591224347,359,Create Product ,500,Internal Server Error,Thread Group 1-2,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,359,0,0
+1670591224575,421,Create Product ,500,Internal Server Error,Thread Group 1-1,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,421,0,0
+1670591224707,304,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,304,0,0
+1670591225013,393,Create Product ,500,Internal Server Error,Thread Group 1-2,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,393,0,0
+1670591224997,409,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,409,0,0
+1670591225407,625,Create Product ,500,Internal Server Error,Thread Group 1-1,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,625,0,0
+1670591225407,625,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,625,0,0
+1670591226034,294,Create Product ,500,Internal Server Error,Thread Group 1-2,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,294,0,0
+1670591226033,295,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,295,0,0
+1670591226329,364,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,364,0,0
+1670591226329,630,Create Product ,200,OK,Thread Group 1-1,text,true,,1830,2903,2,2,https://api.app.shopi-tv.com/api/products,629,0,0
+1670591226695,317,Create Product ,200,OK,Thread Group 1-2,text,true,,1830,2903,2,2,https://api.app.shopi-tv.com/api/products,317,0,0
+1670591226962,395,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,395,0,0
+1670591227015,343,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,343,0,0
+1670591227358,441,Create Product ,500,Internal Server Error,Thread Group 1-2,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591227358,441,Create Product ,200,OK,Thread Group 1-1,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591227800,305,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,305,0,0
+1670591227800,311,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,311,0,0
+1670591228105,357,Create Product ,500,Internal Server Error,Thread Group 1-1,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,357,0,0
+1670591228112,365,Create Product ,500,Internal Server Error,Thread Group 1-2,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,365,0,0
+1670591227619,913,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,913,0,645
+1670591228464,308,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,308,0,0
+1670591228477,428,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,428,0,0
+1670591228533,372,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,372,0,0
+1670591228774,420,Create Product ,500,Internal Server Error,Thread Group 1-1,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,420,0,0
+1670591228905,443,Create Product ,500,Internal Server Error,Thread Group 1-2,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,443,0,0
+1670591228906,442,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,442,0,0
+1670591229194,410,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,410,0,0
+1670591229349,275,Create Product ,500,Internal Server Error,Thread Group 1-3,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,275,0,0
+1670591229349,302,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,302,0,0
+1670591229605,626,Create Product ,500,Internal Server Error,Thread Group 1-1,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,626,0,0
+1670591229652,579,Create Product ,500,Internal Server Error,Thread Group 1-2,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,579,0,0
+1670591229625,606,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,606,0,0
+1670591230232,441,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,441,0,0
+1670591230232,441,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591230232,441,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,441,0,0
+1670591230674,298,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,298,0,0
+1670591230674,322,Create Product ,500,Internal Server Error,Thread Group 1-2,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,322,0,0
+1670591230973,365,Create Product ,500,Internal Server Error,Thread Group 1-3,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,365,0,0
+1670591230997,350,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,350,0,0
+1670591230674,679,Create Product ,200,OK,Thread Group 1-1,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,679,0,0
+1670591231340,311,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,311,0,0
+1670591231354,426,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,426,0,0
+1670591231348,432,Create Product ,200,OK,Thread Group 1-2,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,432,0,0
+1670591231652,409,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,409,0,0
+1670591231781,312,Create Product ,200,OK,Thread Group 1-1,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,312,0,0
+1670591231781,441,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,441,0,0
+1670591232061,382,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,382,0,0
+1670591232094,350,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,350,0,0
+1670591232223,312,Create Product ,500,Internal Server Error,Thread Group 1-2,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,312,0,0
+1670591232444,289,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,289,0,0
+1670591232445,486,Create Product ,500,Internal Server Error,Thread Group 1-1,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,486,0,0
+1670591232536,395,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,395,0,0
+1670591232735,372,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,372,0,0
+1670591232932,397,Login as Admin,200,OK,Thread Group 1-1,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,397,0,0
+1670591232932,410,Create Product ,200,OK,Thread Group 1-2,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,410,0,0
+1670591233107,318,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,318,0,0
+1670591233329,442,Create Product ,500,Internal Server Error,Thread Group 1-1,text,false,,770,2903,4,4,https://api.app.shopi-tv.com/api/products,442,0,0
+1670591233426,376,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,376,0,0
+1670591233343,481,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,481,0,0
+1670591233803,409,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,409,0,0
+1670591233825,399,Create Product ,200,OK,Thread Group 1-2,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,399,0,0
+1670591234213,315,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,315,0,0
+1670591234225,429,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,429,0,0
+1670591234530,398,Create Product ,500,Internal Server Error,Thread Group 1-3,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,398,0,0
+1670591233620,1308,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,1308,0,899
+1670591234664,439,Create Product ,200,OK,Thread Group 1-2,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,439,0,0
+1670591234929,390,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,390,0,0
+1670591234929,390,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,390,0,0
+1670591235105,278,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,278,0,0
+1670591235320,441,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,440,0,0
+1670591235320,441,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,440,0,0
+1670591235384,378,Create Product ,200,OK,Thread Group 1-2,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,377,0,0
+1670591235762,2237,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,2237,0,0
+1670591235762,2237,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,2237,0,0
+1670591235763,2236,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,2236,0,0
+1670591238000,416,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,416,0,0
+1670591238000,416,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,416,0,0
+1670591238000,488,Create Product ,200,OK,Thread Group 1-2,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,488,0,0
+1670591238418,275,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,275,0,0
+1670591238489,368,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,368,0,0
+1670591238417,497,Create Product ,200,OK,Thread Group 1-4,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,497,0,0
+1670591238693,410,Create Product ,500,Internal Server Error,Thread Group 1-3,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,410,0,0
+1670591238916,385,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,385,0,0
+1670591238858,443,Create Product ,200,OK,Thread Group 1-2,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,443,0,0
+1670591239104,298,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,298,0,0
+1670591239303,305,Login as Admin,200,OK,Thread Group 1-2,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,305,0,0
+1670591239303,320,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,4,4,https://api.app.shopi-tv.com/api/products,320,0,0
+1670591239403,339,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,4,4,https://api.app.shopi-tv.com/api/products,339,0,0
+1670591239610,354,Create Product ,200,OK,Thread Group 1-2,text,true,,1830,2903,4,4,https://api.app.shopi-tv.com/api/products,354,0,0
+1670591239623,402,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,402,0,0
+1670591239743,297,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,297,0,0
+1670591240027,381,Create Product ,200,OK,Thread Group 1-4,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,381,0,0
+1670591240040,393,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,393,0,0
+1670591239616,1111,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,1111,0,793
+1670591240410,439,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,439,0,0
+1670591240435,414,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,414,0,0
+1670591240728,342,Create Product ,200,OK,Thread Group 1-5,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,342,0,0
+1670591240850,442,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,442,0,0
+1670591240850,442,Create Product ,200,OK,Thread Group 1-4,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,442,0,0
+1670591241072,321,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,321,0,0
+1670591241294,438,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,438,0,0
+1670591241294,438,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,438,0,0
+1670591241393,340,Create Product ,500,Internal Server Error,Thread Group 1-5,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,340,0,0
+1670591241733,442,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,442,0,0
+1670591241733,442,Create Product ,200,OK,Thread Group 1-4,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,442,0,0
+1670591241733,454,Create Product ,500,Internal Server Error,Thread Group 1-3,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,454,0,0
+1670591242176,441,Create Product ,200,OK,Thread Group 1-5,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591242176,441,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,441,0,0
+1670591242187,432,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,432,0,0
+1670591242619,297,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,297,0,0
+1670591242619,441,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591242619,448,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,448,0,0
+1670591242917,406,Create Product ,500,Internal Server Error,Thread Group 1-5,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,406,0,0
+1670591243061,300,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,300,0,0
+1670591243068,296,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,296,0,0
+1670591243323,412,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,412,0,0
+1670591243361,374,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,374,0,0
+1670591243364,448,Create Product ,500,Internal Server Error,Thread Group 1-3,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,448,0,0
+1670591243740,423,Create Product ,500,Internal Server Error,Thread Group 1-5,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,423,0,0
+1670591243812,351,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,351,0,0
+1670591243740,423,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,423,0,0
+1670591244164,288,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,288,0,0
+1670591244164,529,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,529,0,0
+1670591244164,663,Create Product ,200,OK,Thread Group 1-3,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,663,0,0
+1670591244453,411,Create Product ,500,Internal Server Error,Thread Group 1-5,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,411,0,0
+1670591244694,354,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,354,0,0
+1670591244829,300,Login as Admin,200,OK,Thread Group 1-3,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,299,0,0
+1670591244865,404,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,404,0,0
+1670591245050,443,Create Product ,200,OK,Thread Group 1-4,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,443,0,0
+1670591245130,419,Create Product ,500,Internal Server Error,Thread Group 1-3,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,419,0,0
+1670591245270,443,Create Product ,500,Internal Server Error,Thread Group 1-5,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,442,0,0
+1670591245495,311,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,311,0,0
+1670591245714,297,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,297,0,0
+1670591245807,347,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,347,0,0
+1670591246012,364,Create Product ,500,Internal Server Error,Thread Group 1-5,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,364,0,0
+1670591246155,312,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,312,0,0
+1670591246376,277,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,277,0,0
+1670591246468,348,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,348,0,0
+1670591245613,1203,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,1203,0,854
+1670591246654,384,Create Product ,200,OK,Thread Group 1-5,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,384,0,0
+1670591246816,442,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,442,0,0
+1670591246817,441,Create Product ,500,Internal Server Error,Thread Group 1-6,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591247039,285,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,285,0,0
+1670591247274,426,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,426,0,0
+1670591247274,426,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,426,0,0
+1670591247325,379,Create Product ,500,Internal Server Error,Thread Group 1-5,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,379,0,0
+1670591247701,303,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,303,0,0
+1670591247701,441,Create Product ,500,Internal Server Error,Thread Group 1-6,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591247704,438,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,438,0,0
+1670591248005,441,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591248143,322,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,322,0,0
+1670591248143,442,Create Product ,200,OK,Thread Group 1-5,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,442,0,0
+1670591248466,341,Create Product ,500,Internal Server Error,Thread Group 1-6,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,341,0,0
+1670591248447,360,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,360,0,0
+1670591248587,297,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,297,0,0
+1670591248808,298,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,297,0,0
+1670591248808,440,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,440,0,0
+1670591248885,364,Create Product ,500,Internal Server Error,Thread Group 1-5,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,364,0,0
+1670591249106,585,Create Product ,200,OK,Thread Group 1-6,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,585,0,0
+1670591249249,443,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,443,0,0
+1670591249249,443,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,443,0,0
+1670591249693,494,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,494,0,0
+1670591249693,494,Create Product ,200,OK,Thread Group 1-5,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,494,0,0
+1670591249692,495,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,495,0,0
+1670591250188,387,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,387,0,0
+1670591250188,387,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,387,0,0
+1670591250188,388,Create Product ,200,OK,Thread Group 1-6,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,388,0,0
+1670591250576,532,Create Product ,200,OK,Thread Group 1-5,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,532,0,0
+1670591250577,531,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,531,0,0
+1670591250576,532,Create Product ,200,OK,Thread Group 1-4,text,true,,1830,2903,3,3,https://api.app.shopi-tv.com/api/products,532,0,0
+1670591251109,430,Create Product ,500,Internal Server Error,Thread Group 1-6,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,430,0,0
+1670591251109,430,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,430,0,0
+1670591251109,430,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,430,0,0
+1670591251540,361,Create Product ,200,OK,Thread Group 1-5,text,true,,1830,2903,4,4,https://api.app.shopi-tv.com/api/products,361,0,0
+1670591251541,377,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,4,4,https://api.app.shopi-tv.com/api/products,376,0,0
+1670591251541,385,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,4,4,https://api.app.shopi-tv.com/api/auth/login,385,0,0
+1670591251918,525,Login as Admin,200,OK,Thread Group 1-4,text,true,,1247,275,4,4,https://api.app.shopi-tv.com/api/auth/login,525,0,0
+1670591251926,517,Create Product ,200,OK,Thread Group 1-6,text,true,,1830,2903,4,4,https://api.app.shopi-tv.com/api/products,517,0,0
+1670591251902,541,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,4,4,https://api.app.shopi-tv.com/api/auth/login,541,0,0
+1670591252444,340,Create Product ,500,Internal Server Error,Thread Group 1-4,text,false,,770,2903,4,4,https://api.app.shopi-tv.com/api/products,340,0,0
+1670591252444,340,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,4,4,https://api.app.shopi-tv.com/api/auth/login,340,0,0
+1670591252445,422,Create Product ,500,Internal Server Error,Thread Group 1-5,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,422,0,0
+1670591252786,441,Create Product ,200,OK,Thread Group 1-6,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,440,0,0
+1670591252867,360,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,360,0,0
+1670591251628,1599,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,1599,0,1218
+1670591253228,543,Create Product ,500,Internal Server Error,Thread Group 1-7,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,543,0,0
+1670591253228,543,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,543,0,0
+1670591253228,543,Create Product ,200,OK,Thread Group 1-5,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,543,0,0
+1670591253772,408,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,408,0,0
+1670591253772,408,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,408,0,0
+1670591253772,408,Create Product ,200,OK,Thread Group 1-6,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,408,0,0
+1670591254181,372,Create Product ,500,Internal Server Error,Thread Group 1-7,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,372,0,0
+1670591254181,372,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,372,0,0
+1670591254181,615,Create Product ,200,OK,Thread Group 1-5,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,615,0,0
+1670591254554,291,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,291,0,0
+1670591254554,296,Create Product ,500,Internal Server Error,Thread Group 1-6,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,296,0,0
+1670591254797,289,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,289,0,0
+1670591254845,371,Create Product ,200,OK,Thread Group 1-7,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,371,0,0
+1670591254850,368,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,368,0,0
+1670591255088,350,Create Product ,200,OK,Thread Group 1-5,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,350,0,0
+1670591255218,269,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,269,0,0
+1670591255218,290,Create Product ,500,Internal Server Error,Thread Group 1-6,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,290,0,0
+1670591255439,294,Login as Admin,200,OK,Thread Group 1-5,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,294,0,0
+1670591255488,392,Create Product ,200,OK,Thread Group 1-7,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,392,0,0
+1670591255734,391,Create Product ,500,Internal Server Error,Thread Group 1-5,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,391,0,0
+1670591255509,616,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,616,0,0
+1670591255881,279,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,279,0,0
+1670591256126,419,Create Product ,500,Internal Server Error,Thread Group 1-6,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,419,0,0
+1670591256162,383,Create Product ,200,OK,Thread Group 1-7,text,true,,1832,2903,2,2,https://api.app.shopi-tv.com/api/products,383,0,0
+1670591256546,317,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,317,0,0
+1670591256546,319,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,319,0,0
+1670591256864,345,Create Product ,200,OK,Thread Group 1-7,text,true,,1832,2903,2,2,https://api.app.shopi-tv.com/api/products,345,0,0
+1670591256865,373,Create Product ,200,OK,Thread Group 1-6,text,true,,1832,2903,2,2,https://api.app.shopi-tv.com/api/products,373,0,0
+1670591257211,1424,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,1424,0,0
+1670591257240,1397,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,1397,0,0
+1670591258637,340,Create Product ,500,Internal Server Error,Thread Group 1-7,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,340,0,0
+1670591258637,559,Create Product ,200,OK,Thread Group 1-6,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,559,0,0
+1670591258978,439,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,439,0,0
+1670591259198,308,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,308,0,0
+1670591257618,2260,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,2260,0,1833
+1670591259418,441,Create Product ,200,OK,Thread Group 1-7,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591259507,573,Create Product ,200,OK,Thread Group 1-6,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,573,0,0
+1670591259886,415,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,415,0,0
+1670591259886,415,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,415,0,0
+1670591260081,440,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,440,0,0
+1670591260302,440,Create Product ,200,OK,Thread Group 1-7,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,440,0,0
+1670591260302,440,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,440,0,0
+1670591260522,316,Create Product ,500,Internal Server Error,Thread Group 1-6,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,316,0,0
+1670591260744,284,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,284,0,0
+1670591260744,321,Create Product ,500,Internal Server Error,Thread Group 1-8,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,321,0,0
+1670591260839,566,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,566,0,0
+1670591261030,376,Create Product ,500,Internal Server Error,Thread Group 1-7,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,376,0,0
+1670591261066,359,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,359,0,0
+1670591261406,443,Create Product ,500,Internal Server Error,Thread Group 1-6,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,443,0,0
+1670591261407,442,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,442,0,0
+1670591261426,497,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,497,0,0
+1670591261850,310,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,310,0,0
+1670591261850,315,Create Product ,500,Internal Server Error,Thread Group 1-7,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,315,0,0
+1670591261924,396,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,396,0,0
+1670591262161,575,Create Product ,200,OK,Thread Group 1-6,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,575,0,0
+1670591262165,605,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,605,0,0
+1670591262321,479,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,479,0,0
+1670591262771,404,Create Product ,500,Internal Server Error,Thread Group 1-7,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,404,0,0
+1670591262738,437,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,437,0,0
+1670591262802,407,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,407,0,0
+1670591263177,315,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,315,0,0
+1670591263210,409,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,4,4,https://api.app.shopi-tv.com/api/products,409,0,0
+1670591263177,442,Create Product ,200,OK,Thread Group 1-6,text,true,,1832,2903,4,4,https://api.app.shopi-tv.com/api/products,442,0,0
+1670591263492,348,Create Product ,200,OK,Thread Group 1-7,text,true,,1832,2903,4,4,https://api.app.shopi-tv.com/api/products,348,0,0
+1670591263619,441,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,4,4,https://api.app.shopi-tv.com/api/auth/login,441,0,0
+1670591263619,453,Login as Admin,200,OK,Thread Group 1-6,text,true,,1247,275,4,4,https://api.app.shopi-tv.com/api/auth/login,453,0,0
+1670591263841,304,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,4,4,https://api.app.shopi-tv.com/api/auth/login,304,0,0
+1670591264061,440,Create Product ,500,Internal Server Error,Thread Group 1-8,text,false,,770,2903,4,4,https://api.app.shopi-tv.com/api/products,439,0,0
+1670591264073,428,Create Product ,500,Internal Server Error,Thread Group 1-6,text,false,,770,2903,4,4,https://api.app.shopi-tv.com/api/products,428,0,0
+1670591264146,356,Create Product ,200,OK,Thread Group 1-7,text,true,,1832,2903,4,4,https://api.app.shopi-tv.com/api/products,356,0,0
+1670591263612,1110,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,1110,0,746
+1670591264502,442,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,442,0,0
+1670591264501,443,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,443,0,0
+1670591264723,444,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,444,0,0
+1670591264945,441,Create Product ,500,Internal Server Error,Thread Group 1-8,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591264945,441,Create Product ,500,Internal Server Error,Thread Group 1-7,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591265168,298,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,298,0,0
+1670591265387,441,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,441,0,0
+1670591265387,441,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,441,0,0
+1670591265466,366,Create Product ,500,Internal Server Error,Thread Group 1-9,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,366,0,0
+1670591265829,443,Create Product ,500,Internal Server Error,Thread Group 1-7,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,443,0,0
+1670591265829,443,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,443,0,0
+1670591265833,441,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,441,0,0
+1670591266275,438,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,438,0,0
+1670591266273,440,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,440,0,0
+1670591266273,440,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,440,0,0
+1670591266715,441,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,441,0,0
+1670591266715,512,Create Product ,200,OK,Thread Group 1-7,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,512,0,0
+1670591266715,519,Create Product ,500,Internal Server Error,Thread Group 1-8,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,519,0,0
+1670591267157,308,Create Product ,500,Internal Server Error,Thread Group 1-9,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,308,0,0
+1670591267228,369,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,369,0,0
+1670591267235,364,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,364,0,0
+1670591267466,401,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,401,0,0
+1670591267599,443,Create Product ,500,Internal Server Error,Thread Group 1-7,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,443,0,0
+1670591267600,442,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,442,0,0
+1670591267868,393,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,393,0,0
+1670591268043,303,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,303,0,0
+1670591268043,438,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,438,0,0
+1670591268482,476,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,476,0,0
+1670591268347,610,Create Product ,200,OK,Thread Group 1-7,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,610,0,0
+1670591268262,695,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,695,0,0
+1670591268964,430,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,430,0,0
+1670591268964,431,Login as Admin,200,OK,Thread Group 1-7,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,431,0,0
+1670591268964,449,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,449,0,0
+1670591269396,412,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,4,4,https://api.app.shopi-tv.com/api/auth/login,412,0,0
+1670591269413,396,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,4,4,https://api.app.shopi-tv.com/api/products,396,0,0
+1670591269396,470,Create Product ,200,OK,Thread Group 1-7,text,true,,1832,2903,4,4,https://api.app.shopi-tv.com/api/products,470,0,0
+1670591269809,444,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,444,0,0
+1670591269810,443,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,443,0,0
+1670591270255,514,Create Product ,500,Internal Server Error,Thread Group 1-8,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,514,0,0
+1670591270255,514,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,514,0,0
+1670591270770,366,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,366,0,0
+1670591269612,1524,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,1524,0,1158
+1670591270770,366,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,366,0,0
+1670591271138,314,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,314,0,0
+1670591271138,504,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,504,0,0
+1670591271644,455,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,455,0,0
+1670591271482,617,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,617,0,0
+1670591271138,961,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,961,0,0
+1670591272100,584,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,584,0,0
+1670591272100,584,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,584,0,0
+1670591272100,585,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,585,0,0
+1670591272685,545,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,545,0,0
+1670591272685,955,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,955,0,0
+1670591272685,955,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,955,0,0
+1670591273231,411,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,411,0,0
+1670591273641,401,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,401,0,0
+1670591273641,471,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,471,0,0
+1670591273643,590,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,590,0,0
+1670591274042,466,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,466,0,0
+1670591274234,319,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,319,0,0
+1670591274113,609,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,609,0,0
+1670591274508,390,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,390,0,0
+1670591274554,391,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,391,0,0
+1670591274723,394,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,394,0,0
+1670591274899,439,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,439,0,0
+1670591274946,450,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,449,0,0
+1670591275118,442,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,442,0,0
+1670591275561,506,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,506,0,0
+1670591275397,670,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,670,0,0
+1670591275339,728,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,728,0,0
+1670591276068,477,Create Product ,500,Internal Server Error,Thread Group 1-9,text,false,,770,2903,3,3,https://api.app.shopi-tv.com/api/products,477,0,0
+1670591276068,598,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,598,0,0
+1670591276068,600,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,600,0,0
+1670591276546,341,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,341,0,0
+1670591276667,479,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,479,0,0
+1670591276669,477,Login as Admin,200,OK,Thread Group 1-8,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,477,0,0
+1670591276888,443,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,443,0,0
+1670591277147,464,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,464,0,0
+1670591277147,625,Create Product ,200,OK,Thread Group 1-8,text,true,,1832,2903,3,3,https://api.app.shopi-tv.com/api/products,625,0,0
+1670591277332,441,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,3,3,https://api.app.shopi-tv.com/api/auth/login,441,0,0
+1670591277612,381,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,381,0,0
+1670591277774,440,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,2,2,https://api.app.shopi-tv.com/api/products,440,0,0
+1670591277994,441,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,2,2,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591278215,303,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,303,0,0
+1670591278435,312,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,312,0,0
+1670591278518,362,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,2,2,https://api.app.shopi-tv.com/api/products,362,0,0
+1670591278748,418,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,2,2,https://api.app.shopi-tv.com/api/products,418,0,0
+1670591278882,437,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,437,0,0
+1670591279167,408,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,408,0,0
+1670591279320,440,Create Product ,500,Internal Server Error,Thread Group 1-9,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,440,0,0
+1670591279575,407,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,2,2,https://api.app.shopi-tv.com/api/products,407,0,0
+1670591279761,304,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,304,0,0
+1670591279983,307,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,307,0,0
+1670591280066,440,Create Product ,500,Internal Server Error,Thread Group 1-9,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,440,0,0
+1670591280291,356,Create Product ,500,Internal Server Error,Thread Group 1-10,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,356,0,0
+1670591280506,361,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,361,0,0
+1670591280647,299,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,299,0,0
+1670591280868,441,Create Product ,500,Internal Server Error,Thread Group 1-9,text,false,,770,2903,2,2,https://api.app.shopi-tv.com/api/products,441,0,0
+1670591280946,362,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,2,2,https://api.app.shopi-tv.com/api/products,362,0,0
+1670591281309,301,Login as Admin,200,OK,Thread Group 1-9,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,301,0,0
+1670591281309,441,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,2,2,https://api.app.shopi-tv.com/api/auth/login,441,0,0
+1670591281611,362,Create Product ,200,OK,Thread Group 1-9,text,true,,1832,2903,2,2,https://api.app.shopi-tv.com/api/products,362,0,0
+1670591281751,443,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,1,1,https://api.app.shopi-tv.com/api/products,443,0,0
+1670591282195,309,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,309,0,0
+1670591282506,350,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,1,1,https://api.app.shopi-tv.com/api/products,350,0,0
+1670591282857,306,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,306,0,0
+1670591283164,404,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,1,1,https://api.app.shopi-tv.com/api/products,404,0,0
+1670591283568,411,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,411,0,0
+1670591283981,500,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,1,1,https://api.app.shopi-tv.com/api/products,500,0,0
+1670591284483,416,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,416,0,0
+1670591284901,829,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,1,1,https://api.app.shopi-tv.com/api/products,829,0,0
+1670591285732,440,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,440,0,0
+1670591286173,271,Create Product ,500,Internal Server Error,Thread Group 1-10,text,false,,770,2903,1,1,https://api.app.shopi-tv.com/api/products,271,0,0
+1670591286445,1733,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,1733,0,0
+1670591288179,298,Create Product ,500,Internal Server Error,Thread Group 1-10,text,false,,770,2903,1,1,https://api.app.shopi-tv.com/api/products,298,0,0
+1670591288478,418,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,418,0,0
+1670591288898,407,Create Product ,500,Internal Server Error,Thread Group 1-10,text,false,,770,2903,1,1,https://api.app.shopi-tv.com/api/products,407,0,0
+1670591289307,403,Login as Admin,200,OK,Thread Group 1-10,text,true,,1247,275,1,1,https://api.app.shopi-tv.com/api/auth/login,403,0,0
+1670591289710,483,Create Product ,200,OK,Thread Group 1-10,text,true,,1832,2903,1,1,https://api.app.shopi-tv.com/api/products,483,0,0
